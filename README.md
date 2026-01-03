@@ -1,5 +1,5 @@
 # Odoo-x-Gcet-Vishwa-Majmudar
-# video link in the Repository it self so donwload the video and check it 
+# video link in the Repository it self so download the video and check it 
 # Dayflow - Human Resource Management System (HRMS)
 
 Dayflow HRMS is a comprehensive Human Resource Management System designed to streamline HR operations for businesses. It features an employee dashboard for individual management and an admin dashboard for overall HR control, covering aspects like attendance, leave, payroll, and user management.
